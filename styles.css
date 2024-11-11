@@ -157,8 +157,7 @@ input[type="range"]::-webkit-slider-thumb{
 	background: wheat;
 	box-shadow: inset 5px 5px 5px rgba(0,0,0,0.2),
 	 inset -5px -5px 15px rgba(255,255,255,0.1),
-	 5px 5px 15px rgba(0,0,0,0.3),
-	 -5px -5px 10px rgba(255,255,255,0.1);
+	 5px 5px 15px rgba(0,0,0,0.3);
 }
 .song_detail{
 	position: relative;
@@ -209,7 +208,7 @@ input[type="range"]::-webkit-slider-thumb{
 	background: wheat;
 }
 .right button:hover{
-	background: whitesmoke;
+	background: #FFF8DC;
 }
 .right i:before{
 	color: black;
