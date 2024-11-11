@@ -24,8 +24,7 @@ body{
 	border-radius: 8px;
 	box-shadow: inset 5px 5px 5px rgba(0,0,0,0.2),
 	 inset -5px -5px 15px rgba(255,255,255,0.1),
-	 5px 5px 15px rgba(0,0,0,0.3),
-	 -5px -5px 15px rgba(255,255,255,0.1);
+	 5px 5px 15px rgba(0,0,0,0.3);
 }
 .main button{
 	padding: 10px 12px;
@@ -59,8 +58,7 @@ body{
 	object-fit: cover;
 	box-shadow: inset 5px 5px 5px rgba(0,0,0,0.2),
 	 inset -5px -5px 15px rgba(255,255,255,0.1),
-	 5px 5px 15px rgba(0,0,0,0.3),
-	 -5px -5px 15px rgba(255,255,255,0.1);
+	 5px 5px 15px rgba(0,0,0,0.3);
 	 padding: 5px;
 }
 
@@ -109,15 +107,13 @@ input[type="range"]::-webkit-slider-thumb{
 	background: wheat;
 	box-shadow: inset 2px 2px 5px rgba(0,0,0,0.2),
 	inset -2px -2px 5px rgba(255,255,255,0.1),
-	5px 5px 15px rgba(0,0,0,0.3),
-	-5px -5px 15px rgba(255,255,255,0.1);
+	5px 5px 15px rgba(0,0,0,0.3);
 }
 .left .volume i:hover{
 	background: rgba(245,245,245,0.1);
 	box-shadow: inset 2px 2px 5px rgba(0,0,0,0.2),
 	inset -2px -2px 5px rgba(255,255,255,0.1),
-	5px 5px 15px rgba(0,0,0,0.3),
-	-5px -5px 15px rgba(255,255,255,0.1);
+	5px 5px 15px rgba(0,0,0,0.3);
 }
 .volume #volume_show{
 	padding: 8px 12px;
@@ -156,8 +152,7 @@ input[type="range"]::-webkit-slider-thumb{
 	background: wheat;
 	box-shadow: inset 5px 5px 5px rgba(0,0,0,0.2),
 	 inset -5px -5px 15px rgba(255,255,255,0.1),
-	 5px 5px 15px rgba(0,0,0,0.3),
--5px -5px 10px rgba(255,255,255,0.1);
+	 5px 5px 15px rgba(0,0,0,0.3);
 }
 .song_detail{
 	position: relative;
@@ -201,8 +196,7 @@ input[type="range"]::-webkit-slider-thumb{
 	border-radius: 20px;
 	box-shadow: inset 5px 5px 5px rgba(0,0,0,0.2),
 	inset -5px -5px 15px rgba(255,255,255,0.1),
-	5px 5px 15px rgba(0,0,0,0.3),
-	-5px -5px 10px rgba(255,255,255,0.1);
+	5px 5px 15px rgba(0,0,0,0.3);
 }
 .play{
 	background: wheat;
@@ -230,8 +224,7 @@ input[type="range"]::-webkit-slider-thumb{
   background: rgba(255,255,255,0.2);
   box-shadow: inset 2px 2px 5px rgba(0,0,0,0.2),
 	 inset -2px -2px 5px rgba(255,255,255,0.1),
-	 5px 5px 15px rgba(0,0,0,0.3),
-	 -5px -5px 15px rgba(255,255,255,0.1);
+	 5px 5px 15px rgba(0,0,0,0.3);
 
 }
 .show_song_no p:nth-child(2){
