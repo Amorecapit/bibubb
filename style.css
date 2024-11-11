@@ -14,6 +14,11 @@ header {
   padding: 20px;
 }
 
+h1 {
+  color: #ffffff;
+  animation: slideIn 3s infinite;
+}
+
 .hero {
   text-align: center;
   padding: 20px;
