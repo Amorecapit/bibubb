@@ -4,7 +4,7 @@ body {
   padding: 0;
   background: wheat;
   color: #333;
-  animation: fadeIn 2s ease-in;
+  animation: fadeIn 3s ease-in;
 }
 
 header {
