@@ -212,6 +212,7 @@ input[type="range"]::-webkit-slider-thumb{
 .cta-button {
   display: inline-block;
   font-family: Arial, sans-serif;
+  font-size: medium;
   background-color: #3C210C;
   color: white;
   padding: 10px 20px;
