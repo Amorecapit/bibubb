@@ -56,22 +56,7 @@ h2 {
   background-color: #4C3228;
 }
 
-.music-player {
-  width: 10px;
-  height: auto;
-  border-radius: 10px;
-  transition: transform 0.3s;
-}
 
-.audio-container {
-  text-align: center; /* Untuk men-center-kan kontrol audio */
-  margin-top: 20px; /* Optional: untuk memberi jarak di atas kontrol audio */  
-}
-
-.audio-container audio {
-  width: 100%; /* Membuat kontrol audio memenuhi lebar kontainer */
-  outline: none; /* Menghapus outline default */
-}
 
 
 footer {
