@@ -16,7 +16,7 @@ header {
 
 h1 {
   color: white;
-  animation: Tada 2s infinite;
+  animation: slideIn 2s infinite;
 }
 
 .hero {
