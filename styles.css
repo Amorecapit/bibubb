@@ -213,7 +213,7 @@ input[type="range"]::-webkit-slider-thumb{
   display: inline-block;
   font-family: Arial, sans-serif;
   font-size: medium;
-  font-style: Regular;
+  font-style: bold;
   background-color: #3C210C;
   color: white;
   padding: 10px 20px;
